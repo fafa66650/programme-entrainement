@@ -410,5 +410,8 @@ function resetProgress() {
   }
 }
 
-loadSelector();
-renderWeek("Semaine 1");
+window.addEventListener("DOMContentLoaded", () => {
+  loadSelector();
+  renderWeek("Semaine 1");
+});
+
