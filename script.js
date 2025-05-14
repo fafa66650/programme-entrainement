@@ -6,7 +6,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -31,11 +31,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -45,7 +45,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -60,7 +60,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -85,11 +85,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -99,7 +99,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -114,7 +114,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -139,11 +139,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -153,7 +153,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -168,7 +168,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -193,11 +193,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -207,7 +207,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -222,7 +222,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -247,11 +247,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -261,7 +261,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -276,7 +276,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -301,11 +301,11 @@ const data = {
       "jour": "Jour 3",
       "type": "Full Body",
       "exos": [
-        "Burpees modifiés (3x10)",
+        "Burpees modifiÃ©s (3x10)",
         "Squat + curl (3x12)",
         "Pompes (3x10-12)",
-        "Soulevés de terre (3x12)",
-        "Rowing élastique (3x12)",
+        "SoulevÃ©s de terre (3x12)",
+        "Rowing Ã©lastique (3x12)",
         "Gainage tirage (2x30s)"
       ]
     },
@@ -315,7 +315,7 @@ const data = {
       "type": "Glutes & Cardio",
       "exos": [
         "Squat pulse + jump (3x10+10)",
-        "Fente arrière (3x10)",
+        "Fente arriÃ¨re (3x10)",
         "Pont fessier (3x15)",
         "Planche commando (3x30s)",
         "Toe touches (3x20)",
@@ -330,7 +330,7 @@ const data = {
       "type": "Cuisses & Fessiers",
       "exos": [
         "Squats sumo (3x12-15)",
-        "Fentes marchées (3x10 par jambe)",
+        "Fentes marchÃ©es (3x10 par jambe)",
         "Hip thrust (3x15)",
         "Jump squats (3x10-12)",
         "Skaters (3x30s)",
@@ -342,7 +342,7 @@ const data = {
 {
   "Semaine 1": [
     { date: "Lundi 19 mai", jour: "Jour 1", type: "Cuisses & Fessiers", exos: [
-      "Squats sumo (3x12-15)", "Fentes marchées (3x10 par jambe)", "Hip thrust (3x15)",
+      "Squats sumo (3x12-15)", "Fentes marchÃ©es (3x10 par jambe)", "Hip thrust (3x15)",
       "Jump squats (3x10-12)", "Skaters (3x30s)", "Sprint/Corde (5x30s)"
     ]},
     { date: "Mercredi 21 mai", jour: "Jour 2", type: "Abdos & Gainage", exos: [
@@ -350,11 +350,11 @@ const data = {
       "Russian twists (3x20)", "Gainage superman (2x30s)", "Corde (1min entre tours)"
     ]},
     { date: "Vendredi 23 mai", jour: "Jour 3", type: "Full Body", exos: [
-      "Burpees modifiés (3x10)", "Squat + curl (3x12)", "Pompes (3x10-12)",
-      "Soulevés de terre (3x12)", "Rowing élastique (3x12)", "Gainage tirage (2x30s)"
+      "Burpees modifiÃ©s (3x10)", "Squat + curl (3x12)", "Pompes (3x10-12)",
+      "SoulevÃ©s de terre (3x12)", "Rowing Ã©lastique (3x12)", "Gainage tirage (2x30s)"
     ]},
     { date: "Dimanche 25 mai", jour: "Jour 4", type: "Glutes & Cardio", exos: [
-      "Squat pulse + jump (3x10+10)", "Fente arrière (3x10)", "Pont fessier (3x15)",
+      "Squat pulse + jump (3x10+10)", "Fente arriÃ¨re (3x10)", "Pont fessier (3x15)",
       "Planche commando (3x30s)", "Toe touches (3x20)", "Corde HIIT (10x30s/15s)"
     ]}
   ]
@@ -404,14 +404,13 @@ function renderWeek(week) {
 }
 
 function resetProgress() {
-  if (confirm("Tout réinitialiser ?")) {
+  if (confirm("Tout rÃ©initialiser ?")) {
     localStorage.removeItem(storageKey);
-    renderWeek(selector.value);
   }
 }
+
 
 window.addEventListener("DOMContentLoaded", () => {
   loadSelector();
   renderWeek("Semaine 1");
 });
-
